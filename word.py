@@ -4,6 +4,3 @@ with  Image.open('Coka-Cola.jpg') as pic_original:
     print('', pic_original.format)
     print('', pic_original.mode)
     pic_original.show()
-
-
-
